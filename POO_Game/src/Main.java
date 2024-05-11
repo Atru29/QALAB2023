@@ -11,6 +11,7 @@ public class Main {
         toyo2.setdVelocidadMaxima(300);
         System.out.println("Velocidad Máxima: " + toyo2.getdVelocidadMaxima());
 
+        //EDITADO POR JUAN ARTURO ROJAS OLARTE
 
         System.out.println("========================================== ");
 
